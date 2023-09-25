@@ -1,0 +1,6 @@
+package com.jiaxwo.pocket.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

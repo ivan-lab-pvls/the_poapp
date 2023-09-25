@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302609870748",
+    "project_id": "tradings-2",
+    "storage_bucket": "tradings-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302609870748:android:832913109347a0bb032259",
+        "android_client_info": {
+          "package_name": "com.jiaxwo.pocket.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuYSJZ3o4GkDH52Zd5NO443241Nts562Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
