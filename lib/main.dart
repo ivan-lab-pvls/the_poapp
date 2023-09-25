@@ -66,7 +66,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'The PO_app!',
+      title: 'the PO trading арр',
       theme: lightTheme,
       darkTheme: darkTheme,
       themeMode: _themeMeneger.themeMode,
