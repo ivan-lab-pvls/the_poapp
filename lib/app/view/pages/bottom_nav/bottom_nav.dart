@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:tradings/app/view/pages/calculator/calculator_page.dart';
 import 'package:tradings/app/view/pages/home/home_page.dart';
 import 'package:tradings/app/view/pages/news/news_page.dart';
+import 'package:tradings/app/view/pages/simulator/settings.dart';
 import 'package:tradings/app/view/pages/simulator/simulator_page.dart';
 import '../../../../main.dart';
 
